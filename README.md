@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Smerpstar
+- 👋 Hi, I’m Rahul Dev
 - 👀 I’m interested in AI tech
 - 🌱 I’m currently Studying 
 - 📫 How to reach me ...
